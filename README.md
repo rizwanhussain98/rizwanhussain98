@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanhussain98/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MohammadRizwan007)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rizwanhussain98)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rizwanhussain98)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizwanhussain98)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rizwanhussain98)
@@ -44,19 +44,19 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=MohammadRizwan007&theme=juicy-fresh&no-frame=true&no-bg=true&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=rizwanhussain98&theme=juicy-fresh&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=MohammadRizwan007&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)&nbsp;&nbsp;![](https://streak-stats.demolab.com/?user=MohammadRizwan007&theme=transparent&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=rizwanhussain98&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)&nbsp;&nbsp;![](https://streak-stats.demolab.com/?user=rizwanhussain98&theme=transparent&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MohammadRizwan007&theme=transparent&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rizwanhussain98&theme=transparent&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -67,6 +67,6 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=MohammadRizwan007&color=blue&style=flat)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=rizwanhussain98&color=blue&style=flat)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
