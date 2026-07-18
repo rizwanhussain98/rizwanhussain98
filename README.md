@@ -1,6 +1,6 @@
 # Hi, I'm Rizwan Hussain
 
-**Senior Software Engineer — Java 21 · Spring Boot · Microservices** | Also ship production Flutter apps
+**Senior Backend Engineer — Java 21 · Spring Boot · Microservices** | Also ship production Flutter apps
 
 🎓 MSc Computer Science (AI Pathway), Distinction — University of Suffolk
 📍 Ipswich, UK
