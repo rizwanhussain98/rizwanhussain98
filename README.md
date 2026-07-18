@@ -1,12 +1,12 @@
 # Hi, I'm Rizwan Hussain
 
-**Senior Backend Engineer — Java 21 · Spring Boot · Microservices** | Also ship production Flutter apps
+**Senior Software Engineer — Java 21 · Spring Boot · Microservices** | Also ship production Flutter apps
 
 🎓 MSc Computer Science (AI Pathway), Distinction — University of Suffolk
 📍 Ipswich, UK
 📫 rizwanhussain.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/rizwanhussain98/)
 
-Currently a technical lead at Global E-Comm Services, running a team of four and building **Orion**, a multi-tenant travel booking SaaS used by 20+ enterprise clients. On the side I build and ship my own products.
+Currently a technical lead at Global E-Comm Services, running a team and building **Orion**, a multi-tenant travel booking SaaS used by 20+ enterprise clients. On the side I build and ship my own products.
 
 **Right now:** deploying my own backend product to AWS (ECS Fargate, RDS, SQS, GitHub Actions) and publishing the architecture write-ups here — first public repos landing soon.
 
