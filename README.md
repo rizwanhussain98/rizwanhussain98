@@ -23,7 +23,7 @@ Currently a technical lead at Global E-Comm Services, running a team and buildin
 - Spring Security + JWT across all tenant boundaries
 
 ### 📦 PostPoint — Logistics & Field Verification Platform
-*Independent product, closed-source · Spring Boot 3 · Java · PostgreSQL/PostGIS · Flutter · Kotlin*
+*Client project (pre-launch), closed-source · Spring Boot 3 · Java · PostgreSQL/PostGIS · Flutter · Kotlin*
 
 - Geospatial queries with PostGIS for field-operation workflows
 - AI-assisted document processing (Google Gemini)
