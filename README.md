@@ -8,7 +8,7 @@
 
 Currently a technical lead at Global E-Comm Services, running a team and building **Orion**, a multi-tenant travel booking SaaS used by 20+ enterprise clients. On the side I build and ship my own products.
 
-**Right now:** deploying my own backend product to AWS (ECS Fargate, RDS, SQS, GitHub Actions) and publishing the architecture write-ups here — first public repos landing soon.
+**Right now:** deploying my own backend product to AWS (ECS Fargate, RDS, SQS, GitHub Actions) — pipeline and architecture write-ups to follow. First public repos are live and pinned below 👇
 
 ---
 
@@ -33,10 +33,11 @@ Currently a technical lead at Global E-Comm Services, running a team and buildin
 > 🔓 Public architecture showcase (ADRs, system diagrams, extracted Spring Boot modules) coming to this profile — watch this space.
 
 ### 🩻 ScanWise — ML Chest X-Ray Screening (MSc Dissertation)
-*ONNX · Retrieval-based ML · Python*
+*Flutter · ONNX Runtime · Retrieval-based ML · Python*
 
 - Retrieval-based approach hit **Micro-F1 0.84** vs a 0.21 generative baseline
-- Repo with full write-up and inference demo being prepared for release
+- Runs fully on-device — no server, no image upload
+- 📂 [Full repo — write-up, results, and app screenshots](https://github.com/rizwanhussain98/scanwise)
 
 ---
 
